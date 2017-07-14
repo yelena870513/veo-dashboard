@@ -2,7 +2,7 @@
   "name": "veo-dashboard",
   "private": true,
   "version": "0.0.0",
-  "description": "VEO Intelligence Competitive System Dashboard ",
+  "description": "VEO Intelligence Competitive System Dashboard Management",
   "repository": "https://gitlab.com/yelena870513/veo-dashboard.git",
   "license": "MIT",
   "devDependencies": {
