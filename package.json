@@ -1,9 +1,9 @@
 {
-  "name": "angular-seed",
+  "name": "veo-dashboard",
   "private": true,
   "version": "0.0.0",
-  "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "description": "VEO Intelligence Competitive System Dashboard",
+  "repository": "https://gitlab.com/yelena870513/veo-dashboard.git",
   "license": "MIT",
   "devDependencies": {
     "bower": "^1.7.7",

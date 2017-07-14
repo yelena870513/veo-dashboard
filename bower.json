@@ -1,10 +1,10 @@
 {
-  "name": "angular-seed",
+  "name": "veo-dashboard",
   "description": "A starter project for AngularJS",
-  "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-seed",
+  "version": "0.0.1",
+  "homepage": "VEO Intelligence Competitive System Dashboard",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "dependencies": {
     "angular": "~1.5.0",
     "angular-route": "~1.5.0",
